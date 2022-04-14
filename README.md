@@ -1,7 +1,7 @@
 # MovBus-ionic-Angular
 Proyecto escolar para el rastreo de un dispositivo "ESP32-Wrover"
 
-# Preparacion de aplicación
+# Dependencias
 
 * Se utilizo:
 * Ionic 6 
@@ -28,7 +28,7 @@ Requiere un proyecto
 
 * Modulo ESP32
 
-## App
+## Preparacion de aplicación
 *ionic start* >Elegir "Angular" 
 para desarrollo, despues el nombre de la aplicación "MyApp".
 
