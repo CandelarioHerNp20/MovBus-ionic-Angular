@@ -9,7 +9,7 @@ npm install @ionic/cli
 ```
 * Angular 12 
 ```
-npm install @anclular/cli
+npm install @anglular/cli@12
 ```
 * Typescript
 * Firebase 
